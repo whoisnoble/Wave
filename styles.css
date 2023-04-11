@@ -118,6 +118,7 @@ nav {
     font-size: 1.125rem;
     font-weight: 600;
     letter-spacing: 0.025em;
+    color: #2F2D2E;
 }
 
 .logo__container {
@@ -633,4 +634,5 @@ nav {
     .nav__btn {
         display: block;
     }
+
 }
